@@ -55,6 +55,7 @@ section#login h1 {
 
 section#login p {
   text-align: center;
+  margin-bottom: 15px;
 }
 
 div.campo {
